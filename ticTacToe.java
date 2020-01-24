@@ -1,5 +1,5 @@
-import java.util.*;
-import java.io.*;
+import java.util.Scanner;
+import java.util.Arrays;
 
 public class ticTacToe {
 	//define global variables
