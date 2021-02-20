@@ -1,5 +1,9 @@
 # TicTacToe
 Needed to Self learn Java for School, so I decided to create a TicTacToe game to test my knowledge on basic Java Syntax and logic. I built this with only 2 hours of studying Java, so the program may be a little simple, but I learned a lot!
+
+# DEMO
+![](https://github.com/Dennayz/TicTacToe-Rule-based-AI/blob/master/tictactoe-demo.gif)
+
 # Learning Experience
 - Learnt minimax algorithm
 - Java’s Hashmap interface and classes
